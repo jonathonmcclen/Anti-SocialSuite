@@ -1,7 +1,7 @@
 
 # Anti social Suite
-## Automate everything
-## Getbaqcxk to whats important!
+## Automate everything 
+Getback to whats important!
 ### Like cat videos
 
 anti-sosial suite is a startup company aimed at developin social media management tools for automation. 
