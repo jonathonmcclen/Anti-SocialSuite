@@ -7,6 +7,8 @@ Getback to whats important!
 anti-sosial suite is a startup company aimed at developin social media management tools for automation. 
 the first tool developed is call Mass Task. At anti social suite we believe that botting can be used for good! Ethical botting consists of quality over quantity and a screaning process. Developing real people's social media presenc though easy to use UX design attached to robust automation tools in the backend.
 
+# The Suite
+
 ## Mass Task (MT)
 starting at $99/mo manage any and all outreach tasks, like message campaigns, follow sprees, like spams, and following cleaning.
 initiate a task right now or schedule a task for later. run a predesiigned task every tuesday if you like. We beleave businesses and influential people need to focus on what they do best, creating content and running their business/brand, NOT spending hours on social media and inevitable being sucked into a reel loop, waisting time and money.
